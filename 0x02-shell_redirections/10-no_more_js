@@ -1,2 +1,2 @@
-#!/bin/bash
-uniq -R .js
+#!/bin/bashr
+rm -R .js
