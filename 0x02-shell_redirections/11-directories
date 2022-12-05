@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dRla | wc -l exclude . .. 
+find . -type f -print | wc -l 
