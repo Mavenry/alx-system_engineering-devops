@@ -1,2 +1,2 @@
 #!/bin/bash
-file . -type -f : -d -empty
+file ./ -type fd -empty
