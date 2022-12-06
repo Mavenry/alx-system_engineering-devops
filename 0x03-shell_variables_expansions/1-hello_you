@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello root/n"
+printf "hello root\n"
