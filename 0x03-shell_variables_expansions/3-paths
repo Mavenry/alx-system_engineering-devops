@@ -1,2 +1,2 @@
 #!/bin/bash
-gido
+echo $PATH | wc -w
